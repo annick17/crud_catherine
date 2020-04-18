@@ -1,0 +1,42 @@
+body {
+    background-color: #cecece;
+}
+
+#nav {
+    background-color: #ff8324;
+}
+
+.navbar-brand {
+    background-color: #009eb3;
+    color: black;
+    border-width: 5px;
+    border-color: #009eb3;
+    border-style: solid;
+    border-spacing: 30px;
+    border-radius: 5px;
+}
+
+.navbar-link {
+    background-color: #009eb3;
+    color: black;
+}
+
+.card {
+    width: 18rem;
+}
+
+.display-3 {
+    background-color: black;
+    color: #009eb3;
+}
+
+.card-columns .card {
+    width: 50%;
+    margin-left: 5%;
+}
+
+.table {
+    background-color: #009eb3;
+    border-radius: 10px;
+    margin-left: 5%;
+}
